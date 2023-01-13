@@ -7,4 +7,4 @@ Send a post to index page with multipart/form-data fields
 - path: path inside uploads folder
 - name: filename
 
-Pass X-Token header, with token confiured in config.php
+Pass X-Token header, with token configured in config.php
